@@ -1,0 +1,45 @@
+_repo: Cottages-or-Hints-on-Economical-Building_67922
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Gerhard, Wm. Paul (William Paul)
+    alias: Gerhard, William Paul
+    birthdate: 1854
+    deathdate: 1927
+    gutenberg_agent_id: '54533'
+    url: http://www.gutenberg.org/2009/agents/54533
+    wikipedia: https://en.wikipedia.org/wiki/William_Paul_Gerhard
+creator:
+  editor:
+    agent_name: Brunner, Arnold W. (Arnold William)
+    alias: Brunner, A. W. (Arnold William)
+    birthdate: 1857
+    deathdate: 1925
+    gutenberg_agent_id: '54534'
+    url: http://www.gutenberg.org/2009/agents/54534
+    wikipedia: https://en.wikipedia.org/wiki/Arnold_W._Brunner
+description: ''
+gutenberg_issued: '2022-04-25'
+identifiers:
+  gutenberg: '67922'
+  lccn: '11033748'
+language: en
+pgterms:marc904: https://archive.org/details/WilliamTComstockCottages0001/page/n5/mode/2up
+pgterms:marc905: 20200911201749gebhartce
+pgterms:marc906: '1884'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :William T. Comstock,1884.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Domestic'
+- !lcsh 'Cottages'
+- !lcc 'NA'
+- !lcsh 'Sanitation, Household'
+- GITenberg
+title: Cottages; or, Hints on Economical Building
+url: http://www.gutenberg.org/ebooks/67922

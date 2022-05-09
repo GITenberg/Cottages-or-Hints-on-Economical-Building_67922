@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '54533'
     url: http://www.gutenberg.org/2009/agents/54533
     wikipedia: https://en.wikipedia.org/wiki/William_Paul_Gerhard
+covers:
+- cover_type: archival
+  image_path: 67922-h/images/cover.jpg
 creator:
   editor:
     agent_name: Brunner, Arnold W. (Arnold William)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54534
     wikipedia: https://en.wikipedia.org/wiki/Arnold_W._Brunner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67922#Cottages-or-Hints-on-Economical-Building
 gutenberg_issued: '2022-04-25'
 identifiers:
   gutenberg: '67922'
